@@ -1,0 +1,27 @@
+{
+  "name": "gradebook",
+  "version": "1.0.0",
+  "description": "Testing gradeBook",
+  "main": "lib/grades.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "nodeunit tests"
+  },
+  "author": "Jordi Macia Ferrer",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jomafe/gradeBook.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jomafe/gradeBook/issues"
+  },
+  "homepage": "https://github.com/jomafe/gradeBook#readme"
+}
