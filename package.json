@@ -2,7 +2,7 @@
   "name": "gradebook",
   "version": "1.0.0",
   "description": "Testing gradeBook",
-  "main": "lib/grades.js",
+  "main": "program.js",
   "directories": {
     "lib": "lib",
     "test": "tests"
