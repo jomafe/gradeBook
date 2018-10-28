@@ -1,5 +1,5 @@
 {
-  "name": "@jomafe/gradebook",
+  "name": "jomafe-gradebook",
   "version": "1.0.0",
   "description": "Testing gradeBook",
   "main": "program.js",
